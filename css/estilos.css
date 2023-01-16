@@ -1,0 +1,16 @@
+h1{
+    Color: #03045e;
+    background-color:#0077b6 ;
+    padding: 30px;
+    border: 15px solid #00b4d8;
+    margin:55px;
+    text-align: center;
+
+}
+body{
+    background-color: #caf0f8;
+    text-align: center;
+    
+}
+a:link{
+    text-decoration: none;}
